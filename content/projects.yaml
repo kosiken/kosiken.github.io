@@ -1,18 +1,17 @@
-- name: Example 1
-  url: https://github.com
-  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
+- name: gtkemu8086
+  url: https://github.com/kosiken/gtkemu8086
+  description: An 8086 emulator
   status: in progress
   tags:
-    - JavaScript
-    - Gatsby
+    - C
+    - Gtk+
   icon: github
+  image: images/project.png
 
-- name: Example 2
-  url: https://github.com
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
-  status: live
+- name: Keylogger
+  url: https://github.com/kosiken/lion-keylogger
+  description: This is a tiny keylogger for windows
+  status: archived
   tags:
-    - JavaScript
-    - HTML
-  icon: website
-  image: images/project.jpg
+    - C++
+  icon: github

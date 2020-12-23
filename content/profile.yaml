@@ -1,29 +1,35 @@
 - profile:
-  initials: JD
-  name: John Doe
-  email: john.doe@change.me
-  profession: Web Developer
-  image: images/profile.jpg
-  location: New York, USA
+  initials: AKR
+  name: Allison Kosy
+  email: allisonkosy@gmail.com
+  profession: Web and Mobile Developer
+  image: images/lion2.png
+  location: Lagos, Nigeria
   relocation: true
-  company: Atomic Studio
+  company: Unattached
   for_hire: true
-  focus: Learning Gatsby
-  focus_url: https://gatsbyjs.org
+  focus: Mobile App Development
+  focus_url: https://kosiken.github.io
   about: |
-    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+    Hi, My name is Allison Kosy. I am a Web and Mobile Developer and lowkey UI designer
 
-    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+    I also have intrests in Pentesting and CNNs
+
   skills:
     - JavaScript
     - HTML / CSS
-    - Ruby on Rails
+    - C / C++
+    - Python
+    - Java
   tools:
     - React
-    - VSCode
+    - Vue
+    - Node
     - Gatsby
+    - Gtk+
+    - Qt
   budget:
     currency: $
     min: 5
     max: 30
-    default: 10
+    default: 10    

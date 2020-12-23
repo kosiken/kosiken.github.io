@@ -1,36 +1,14 @@
 - name: linkedin
-  url: https://linkedin.com/in/username
+  url: https://www.linkedin.com/in/kosisochukwu-allison-524b9414a
 
 - name: twitter
-  url: https://twitter.com/username
-
-- name: facebook
-  url:
+  url: https://twitter.com/kosisoali
 
 - name: instagram
-  url:
+  url: https://instagram.com/allisonkosy
 
 - name: dribbble
-  url:
-
-- name: behance
-  url:
-
-- name: producthunt
-  url:
+  url: https://dribbble.com/kosiken
 
 - name: github
-  url: https://github.com/username
-
-- name: goodreads
-  url:
-
-- name: xing
-  url:
-
-- name: youtube
-  url:
-
-- name: medium
-  url:
-
+  url: https://github.com/kosiken
