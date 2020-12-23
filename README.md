@@ -1,2 +1,5 @@
 # kosiken.github.io
-Gh page
+
+## Author 
+
+ Allison Kosisochukwu <allisonkosy@gmail.com>
