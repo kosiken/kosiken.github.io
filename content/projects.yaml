@@ -1,12 +1,52 @@
 - name: gtkemu8086
-  url: https://github.com/kosiken/gtkemu8086
-  description: An 8086 emulator
+  url: https://kosiken.github.io/gtkemu8086-docs
+  description: An 8086 emulator for learning assembly programming
   status: in progress
   tags:
     - C
     - Gtk+
   icon: github
   image: images/project.png
+
+- name: Colourful Language
+  url: https://colorfullanguage.herokuapp.com
+  description: A small blog built with Nodejs and React
+  status: completed
+  tags: 
+    - JavaScript
+    - React
+    - Nodejs
+  icon: github
+
+- name: Podcasts
+  url: https://lionpods.herokuapp.com
+  description: An application I use to play my favorite podcasts
+  status: in progress
+  tags: 
+    - JavaScript
+    - React
+    - Nodejs
+  icon: github
+  image: images/lion.png
+
+- name: Fivechow Landing page
+  url: https://fivechow.netlify.app
+  description: Landing page I constructed while working for 500 chow
+  status: in progress
+  tags: 
+    - JavaScript
+    - React
+  icon: github
+
+- name: Printserve
+  url: https://printserve.herokuapp.com
+  description: A web application used to remotely print documents for a fee
+  status: completed
+  tags: 
+    - JavaScript
+    - React
+    - Nodejs
+  icon: github
 
 - name: Keylogger
   url: https://github.com/kosiken/lion-keylogger
