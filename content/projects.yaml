@@ -27,7 +27,7 @@
     - React
     - Nodejs
   icon: github
-  image: images/lion.png
+  image: images/lion.jpg
 
 - name: Fivechow Landing page
   url: https://fivechow.netlify.app
