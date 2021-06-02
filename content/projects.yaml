@@ -1,12 +1,26 @@
 - name: gtkemu8086
   url: https://kosiken.github.io/gtkemu8086-docs
   description: An 8086 emulator for learning assembly programming
-  status: in progress
+  status: completed
   tags:
     - C
     - Gtk+
   icon: github
-  image: images/project.png
+  image: images/lcdplugin.gif
+  
+  - name: Video chat
+    url: https://kosy.herokuapp.com
+    description: A video chat application
+    status: in progress
+    tags:
+      - JavaScript
+      - Nodejs
+      - React
+    icon: github
+ 
+    
+    
+    
 
 - name: Colourful Language
   url: https://colorfullanguage.herokuapp.com
