@@ -8,15 +8,15 @@
   icon: github
   image: images/lcdplugin.gif
   
-  - name: Video chat
-    url: https://kosy.herokuapp.com
-    description: A video chat application
-    status: in progress
-    tags:
-      - JavaScript
-      - Nodejs
-      - React
-    icon: github
+- name: Video chat
+  url: https://kosy.herokuapp.com
+  description: A video chat application
+  status: in progress
+  tags:
+    - JavaScript
+    - Nodejs
+    - React
+  icon: github
  
     
     
