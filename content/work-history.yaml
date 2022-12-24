@@ -1,12 +1,29 @@
 - company: Freelance
   position: Web and Mobile Developer
   period: April 2019 - Date
+  
+- company: RelicInnova
+  position: Software Developer
+  period: August 2019 - August 2021
+  url: https://500chow.com
+
 
 - company: 500chow
   position: Frontend Developer
   period: July 2020 - November 2020
   url: https://500chow.com
 
-- company: Krc
-  position: Lead Developer
-  period: December 2020 - Date
+- company: Encentral Solutions
+  position: Backend Developer
+  period: August 2021 - March 2022
+  url: https://www.encentralsolutions.com
+ 
+- company: Bongalow
+  position: Backend Developer
+  period: March 2022 - December 2022
+  url: https://www.bongalow.com
+
+- company: Clipp Africa
+  position: Fullstack Developer
+  period: July 2022 - Date
+  url: https://useclipp.app
