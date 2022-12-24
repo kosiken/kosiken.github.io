@@ -8,7 +8,7 @@
   relocation: true
   company: Unattached
   for_hire: true
-  focus: Mobile App Development
+  focus: Full stack web Development
   focus_url: https://kosiken.github.io
   about: |
     Hi, My name is Allison Kosy. I am a Web and Mobile Developer and lowkey UI designer
@@ -19,6 +19,7 @@
     - JavaScript
     - HTML / CSS
     - C / C++
+    - Flutter / Dart
     - Python
     - Java
   tools:
@@ -26,6 +27,8 @@
     - Vue
     - Node
     - Gatsby
+    - React Native
+    - Jira
     - Gtk+
     - Qt
   budget:

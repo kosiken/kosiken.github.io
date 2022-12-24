@@ -8,6 +8,7 @@
   "scripts": {
     "build": "gatsby build",
     "start": "gatsby develop",
+    "setup": "rm node_modules/@wkocjan/gatsby-theme-intro/src/components/projects/project.js && cp src/@wkocjan/gatsby-theme-intro/src/components/projects/project.js node_modules/@wkocjan/gatsby-theme-intro/src/components/projects/project.js",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
