@@ -33,7 +33,7 @@
   icon: github
 
 - name: Podcasts
-  url: https://lionpods.herokuapp.com
+  url: https://kosy-pods.netlify.app
   description: An application I use to play my favorite podcasts
   status: in progress
   tags: 
